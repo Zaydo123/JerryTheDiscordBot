@@ -3,7 +3,7 @@ from discord.ext import commands, tasks
 from discord.ext.commands import Bot
 from itertools import cycle
 import random
-
+print("starting")
 #variables
 my_twitch_url = 'https://twitch.tv/turniphead_'
 players = {}
