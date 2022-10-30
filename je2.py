@@ -214,4 +214,4 @@ async def move(ctx, *, channel : discord.VoiceChannel):
 
 
 
-client.run('NzM4NTY3MTA3NzM3ODEzMDQy.XyNyOA.YV746l03m-d2YntLPHHyOlhT7B8')
+client.run('')
